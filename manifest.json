@@ -1,7 +1,7 @@
 {
   "name": "Al-Reza Edutainment Hub",
   "short_name": "Edutainment",
-  "start_url": "https://www.al-reza.com/p/free-tools-edutainment.html"
+  "start_url": "https://www.al-reza.com/p/free-tools-edutainment.html",
   "display": "standalone",
   "background_color": "#0f2040",
   "theme_color": "#0f2040",
