@@ -1,4 +1,5 @@
 {
+  "id": "/p/free-tools-edutainment.html",
   "name": "Al-Reza Edutainment Hub",
   "short_name": "Edutainment",
   "start_url": "/p/free-tools-edutainment.html",
@@ -7,9 +8,17 @@
   "theme_color": "#0f2040",
   "icons": [
     {
-      "src": "https://i.postimg.cc/Xv3JXtFD/image-192x192.png", 
-      "sizes": "192x192",
+      "src": "https://i.postimg.cc/Xv3JXtFD/image-192x192.png",
+      "sizes": "800x800",
       "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://i.postimg.cc/NfHfDQkZ/image-512x512.png",
+      "sizes": "800x800",
+      "type": "image/png",
+      "form_factor": "wide"
     }
   ]
 }
